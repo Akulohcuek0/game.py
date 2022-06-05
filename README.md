@@ -16,8 +16,14 @@ pembatas
 agar tidak keluar garis bila terkena garis maka mati
 
 
+kami berdua udah dapet sodcode nya dari referensi tetapi lagi di fahami alur penerapan solid dll bismillah game kelar dan selalu semangat 
+
 
 
 tujuan 
 bisa menerapkan solid maupun oop, di game 
 belajar bagaimana alur untuk membuat game 
+kerja sama tim 
+
+game ini semacam pygame 
+
