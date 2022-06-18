@@ -236,7 +236,8 @@ def mainGame(movementInfo):
                     SOUNDS['wing'].play()
 
         # check for crash here
-        crashTest = checkCrash({'x': playerx, 'y': playery, 'index': playerInde upperPipes, lowerPipes)
+        crashTest = checkCrash({'x': playerx, 'y': playery, 'index': playerInde 
+        upperPipes, lowerPipes)
         if crashTest[0]:
             return {
                 'y': playery,
