@@ -10,35 +10,35 @@ akun akulohcuek punya ibrahim
 Inition game 
 
 character 
-untuk berjalan sesuai target nya
+untuk berjalan atau terbang ke atas dan ke bawah untuk melewati tembok atau batas 
 
 enemy 
-untuk menggangu agar lawan terkena badan nya lalu mati 
+untuk menggangu nya menggunakan media tembok 
 
 pembatas
-agar tidak keluar garis bila terkena garis maka mati
+jika mengenai tembok maka mati
 
 level 
-mungkin berkembang dengan memakan buah atau makanan lain nya 
+mungkin berkembang dengan kita bisa melwati tembok sesuai target maka skill kita bertambah 
 
-ada juga waktu nya sesuai mode yang di pilih 
 
-Plot ➔ ular bisa memakan buah lalu besar 
-• Character ➔ memakan buah dan ada musuh nya hingga besar-besar skore 
-• Setting ➔ kejadian memakan buah itu jika ada buah maka makan dan hingga besar dan mati saat terkena musuh
+
+Plot ➔ bisa terbang untuk menghidari tembok
+• Character ➔ mengasah skill kita untuk melewati tembok
+• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa melewati nya maka berhasil
 • Theme ➔ kita bisa belajar gimana membuat game dan kerja sama baik dengan membuat coding dll nya 
 
 
 mechanic 
 Fondasi game atau disebut “core mechanics”
-• Aturan nya bila mana mengenai musuh maka mati 
-• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga menangkap makanan menjadi besar dan yang di hindari itu mengenai musuh
-pemain selama game bejalan, misalnya berjalan, berlari, 
-atau putar arah
+• Aturan nya bila mana mengenai tembok maka mati
+• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga melewati tembok hingga berhasil dan yang di hindari itu mengenai musuh
+pemain selama game terbang, misalnya terbang, menunduk, 
+atau mempercepat gerak nya
 
 aestecthic 
-game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk memakan buah hingga besar 
-musik nya enakan dan suara ular memakan nya sangat keren dan sangat menegangkan 
+game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk melewati batas tembok nya
+musik nya enakan dan suara seperti mario melewati nya sangat keren dan sangat menegangkan 
 
 
 technology 
