@@ -238,6 +238,7 @@ def mainGame(movementInfo):
         # check for crash here
         crashTest = checkCrash({'x': playerx, 'y': playery, 'index': playerInde 
         upperPipes, lowerPipes)
+                    
         if crashTest[0]:
             return {
                 'y': playery,
