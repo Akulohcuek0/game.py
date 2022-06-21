@@ -33,5 +33,5 @@ while running:
                 y += 1
             elif event.key == pygame.K_LEFT:
                 x -= 1
-            elif event.key == pygame.K_RIGHT:SSSSSSSSSSSSSSSSSSSSSSSSSSS
+            elif event.key == pygame.K_RIGHT:
                 x += 1
