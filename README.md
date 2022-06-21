@@ -10,35 +10,35 @@ akun akulohcuek punya ibrahim
 Inition game 
 
 character 
-untuk berjalan sesuai target nya
+snake akan memakan buah 
 
 enemy 
-untuk menggangu agar lawan terkena badan nya lalu mati 
+jika menyentuh tembok atau pembatas maka akan mati 
 
 pembatas
-agar tidak keluar garis bila terkena garis maka mati
+jika mengenai tembok maka mati
 
 level 
-mungkin berkembang dengan memakan buah atau makanan lain nya 
+mungkin snake memakan buah maka snake bertambah besar jika menyetuh tembok maka ular mati 
 
-ada juga waktu nya sesuai mode yang di pilih 
 
-Plot ➔ ular bisa memakan buah lalu besar 
-• Character ➔ memakan buah dan ada musuh nya hingga besar-besar skore 
-• Setting ➔ kejadian memakan buah itu jika ada buah maka makan dan hingga besar dan mati saat terkena musuh
+
+Plot ➔ bisa makan buah dan bisa mebesar sesuai ketentuan nya
+• Character ➔ bisa makan buah dan akan membesar 
+• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa maka buah banyak maka berhasil membesar 
 • Theme ➔ kita bisa belajar gimana membuat game dan kerja sama baik dengan membuat coding dll nya 
 
 
 mechanic 
 Fondasi game atau disebut “core mechanics”
-• Aturan nya bila mana mengenai musuh maka mati 
-• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga menangkap makanan menjadi besar dan yang di hindari itu mengenai musuh
-pemain selama game bejalan, misalnya berjalan, berlari, 
-atau putar arah
+• Aturan nya bila mana mengenai tembok maka mati
+• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga me tembok hingga berhasil dan yang di hindari itu mengenai musuh
+pemain selama waktu atau pergerakan nya, 
+atau mempercepat gerak nya
 
 aestecthic 
-game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk memakan buah hingga besar 
-musik nya enakan dan suara ular memakan nya sangat keren dan sangat menegangkan 
+game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk melewati batas tembok nya
+musik nya enakan dan suara seperti mario melewati nya sangat keren dan sangat menegangkan 
 
 
 technology 
@@ -49,8 +49,6 @@ mungkin semacam pygame atau virtualy reality bisa juga web, atau pun mobile
 
 
 
-
-kami berdua udah dapet sodcode nya dari referensi tetapi lagi di fahami alur penerapan solid dll bismillah game kelar dan selalu semangat 
 
 
 
