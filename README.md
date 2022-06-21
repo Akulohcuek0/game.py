@@ -10,30 +10,30 @@ akun akulohcuek punya ibrahim
 Inition game 
 
 character 
-untuk berjalan atau terbang ke atas dan ke bawah untuk melewati tembok atau batas 
+snake akan memakan buah 
 
 enemy 
-untuk menggangu nya menggunakan media tembok 
+jika menyentuh tembok atau pembatas maka akan mati 
 
 pembatas
 jika mengenai tembok maka mati
 
 level 
-mungkin berkembang dengan kita bisa melwati tembok sesuai target maka skill kita bertambah 
+mungkin snake memakan buah maka snake bertambah besar jika menyetuh tembok maka ular mati 
 
 
 
-Plot ➔ bisa terbang untuk menghidari tembok
-• Character ➔ mengasah skill kita untuk melewati tembok
-• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa melewati nya maka berhasil
+Plot ➔ bisa makan buah dan bisa mebesar sesuai ketentuan nya
+• Character ➔ bisa makan buah dan akan membesar 
+• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa maka buah banyak maka berhasil membesar 
 • Theme ➔ kita bisa belajar gimana membuat game dan kerja sama baik dengan membuat coding dll nya 
 
 
 mechanic 
 Fondasi game atau disebut “core mechanics”
 • Aturan nya bila mana mengenai tembok maka mati
-• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga melewati tembok hingga berhasil dan yang di hindari itu mengenai musuh
-pemain selama game terbang, misalnya terbang, menunduk, 
+• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga me tembok hingga berhasil dan yang di hindari itu mengenai musuh
+pemain selama waktu atau pergerakan nya, 
 atau mempercepat gerak nya
 
 aestecthic 
@@ -49,8 +49,6 @@ mungkin semacam pygame atau virtualy reality bisa juga web, atau pun mobile
 
 
 
-
-kami berdua udah dapet sodcode nya dari referensi tetapi lagi di fahami alur penerapan solid dll bismillah game kelar dan selalu semangat 
 
 
 
