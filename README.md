@@ -2,7 +2,7 @@ Game Depolopment Life Cycle(GDLC)
 
 DI BUAT OLEH:
 Muhammad Rayhan G (2105051)- D4 RPL 1B 
-IBRAHIM KHOIRUL AFHAM (2105040)- D4 RPL 1B 
+IBRAHIM KHOIRUL AFHAM (2105041)- D4 RPL 1B 
 
 akun akulohcuek punya ibrahim 
 
@@ -10,7 +10,7 @@ akun akulohcuek punya ibrahim
 Inition game 
 
 character 
-snake akan memakan buah 
+snake akan memakan buah atau makanan setelah makan maka skore bertambah
 
 enemy 
 jika menyentuh tembok atau pembatas maka akan mati 
@@ -25,27 +25,26 @@ mungkin snake memakan buah maka snake bertambah besar jika menyetuh tembok maka 
 
 Plot ➔ bisa makan buah dan bisa mebesar sesuai ketentuan nya
 • Character ➔ bisa makan buah dan akan membesar 
-• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa maka buah banyak maka berhasil membesar 
-• Theme ➔ kita bisa belajar gimana membuat game dan kerja sama baik dengan membuat coding dll nya 
+• Setting ➔ kejadian nya jika kita mengenai tembok maka mati dan jika bisa maka buah banyak maka berhasil membesar dan jika makan maka skore akan bertambah
+• Theme ➔ kita bisa belajar gimana membuat game dan kerja sama baik dengan membuat coding dll nya, lebih banyak belajar lagi untuk ke depan nya 
 
 
 mechanic 
 Fondasi game atau disebut “core mechanics”
 • Aturan nya bila mana mengenai tembok maka mati
-• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga me tembok hingga berhasil dan yang di hindari itu mengenai musuh
-pemain selama waktu atau pergerakan nya, 
+• Aksi utama dari game → aksi yang dapat dilakukan dengan menggerakan kursor hingga memakan buah atau makanan,jika menabrak tembok maka mati, yang di hindari menabrak tembok agar tidak mati
+pemain bisa mencet tombol kursor atau panah atas, bawah, kiri, kanan selama ingin makan atau pergerakan nya agar bisa makan dan jangan sampai menabrak tembok. 
 atau mempercepat gerak nya
 
 aestecthic 
-game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk melewati batas tembok nya
-musik nya enakan dan suara seperti mario melewati nya sangat keren dan sangat menegangkan 
+game ini nyaman untuk anak-anak melatih konsentrasi dan nafsu kita untuk mencari makan si ular dan bisa bertambah nya skore dan ular besar
+musik nya belum ada 
 
 
 technology 
 
-Misalnya multiplayer game, virtual reality, desktop, 
-mobile, web, game console, dll
-mungkin semacam pygame atau virtualy reality bisa juga web, atau pun mobile 
+Misalnya multiplayer game, virtual reality, desktop,game console,game.py
+mungkin semacam pygame atau virtualy reality bisa juga game.py di python, atau pun mobile 
 
 
 
@@ -53,9 +52,12 @@ mungkin semacam pygame atau virtualy reality bisa juga web, atau pun mobile
 
 
 tujuan 
-bisa menerapkan solid maupun oop, di game 
+bisa belajar untuk membuat game walaupun belum sempurna, 
 belajar bagaimana alur untuk membuat game 
-kerja sama tim 
+kerja sama tim.
+bisa menambah ilmu kita 
+bisa menambah skill kita 
+dll
 
 
 
